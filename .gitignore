@@ -1,0 +1,17 @@
+# Raw microscopy, unapproved experimental data, output and caches
+outputs/
+raw_data/
+*.tif
+*.tiff
+*.xlsx
+*.xls
+*.opju
+*.csv
+!examples/imagej_per_cell_TEMPLATE.csv
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+.DS_Store
+.venv/
+.env
